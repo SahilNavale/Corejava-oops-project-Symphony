@@ -1,0 +1,1 @@
+This project is a Core-Java-based music player application that leverages fundamental Object-Oriented Programming (OOP) concepts, Data Management Systems (DMS), and Object class methods. The project aims to provide a comprehensive solution for managing and playing music files efficiently
